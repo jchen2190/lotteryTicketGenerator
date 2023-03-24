@@ -3,7 +3,9 @@
 }
 body {
     background-color: #335;
-    background-image: radial-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(./images/multi-colored-lotttery-ping-pong-balls.jpg);
+    background-image: 
+    radial-gradient(rgba(0,0,0,.77), rgba(0,0,0,.77)),
+    url(../images/multi-colored-lotttery-ping-pong-balls.jpg);
     margin: 0;
     font-family: sans-serif;
     color: #335;
@@ -26,7 +28,7 @@ h1 {
 }
 #tickets-div {
     overflow-y: auto;
-    background-color: #999;
+    background-color: #555;
     border-radius: 1rem;
     margin: 2rem auto;
     max-height: 32rem;
